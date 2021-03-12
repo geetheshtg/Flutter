@@ -1,6 +1,6 @@
-# startupnamer
+# startup_namer
 
-A Flutter application for naming startups using unlimited list.
+A new Flutter project.
 
 ## Getting Started
 
